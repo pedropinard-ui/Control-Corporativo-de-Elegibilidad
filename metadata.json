@@ -1,0 +1,6 @@
+{
+  "name": "Control Corporativo de Elegibilidad",
+  "description": "Sistema centralizado de gestión, evaluación y motor de restricciones comerciales y operativas para clientes y asegurados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
